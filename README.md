@@ -128,35 +128,6 @@ get-started-with-kiro/
 └── Get Started with Kiro.md       # Complete tutorial (983 lines)
 ```
 
-## Project Context
-
-### Why This Tutorial Exists
-
-Kiro IDE represents a paradigm shift in software development, combining AI assistance with structured workflows. This tutorial was created to:
-
-1. **Lower the learning curve** for new Kiro users
-2. **Demonstrate best practices** through real examples
-3. **Teach spec-driven development** methodology
-4. **Show the full potential** of AI-assisted coding
-
-### Tutorial Design Philosophy
-
-- **Learn by doing**: Build a complete application
-- **Understand the why**: Explain reasoning behind each step
-- **Progressive disclosure**: Introduce concepts when needed
-- **Practical focus**: Real-world patterns and solutions
-- **Reference quality**: Useful beyond first reading
-
-### Target Audience
-
-This tutorial is designed for:
-
-- **New Kiro Users**: Complete introduction to the platform
-- **Experienced Developers**: Quick onboarding with advanced topics
-- **Team Leads**: Understanding workflow for team adoption
-- **Educators**: Teaching material for workshops/courses
-- **Self-Learners**: Comprehensive self-paced guide
-
 ## Resources
 
 ### Official Kiro Resources
