@@ -11,17 +11,15 @@ What is Kiro and why choose kiro?
 3. Create a new project folder and open it with Kiro
 
 ```
-mkdir kiro-demo-22
-kiro kiro-demo-22
+mkdir kiro-demo
+kiro kiro-demo
 ```
 
-5. There are many ways to login Kiro.
-
-6. On the Kiro side bar on the left:
+4. There are many ways to login Kiro. On the Kiro side bar on the left,
    - Agent Steering
    - Agent Hook
    - Specs
-   - MCP Servers
+5. MCP Servers
 
 ## A. Spec-Driven Workflow
 
